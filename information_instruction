@@ -1,0 +1,7 @@
+index #name_package
+1.0 #version
+/home/setup.py #directory to "setup.py or setup.exe"
+/home/program #directory to extract archive
+/home/package.zip #directory archive
+/home/ #directory is create script
+https.youtube.com #url addres (откуда скачивать пакет)
